@@ -144,30 +144,41 @@ function Navbar() {
         <div class="text7 bg-violet-300 mt-10">
             <h1 class="p-4 text-5xl text-violet-950">Islomiy anjomlar</h1>
         </div>
+
+
+
        <div class="text11 mt-14">
+
+
         <div class="text8">
             <div class="btn5 text-2xl ">
                 <p class="m-4 bg-gradient-to-l from-violet-300 to-violet-100 text-violet-600 border border-violet-300 grid grid-col-2 justify-center p-4 gap-4 rounded-lg shadow-md"><a href="http://www.iptd-uzbekistan.uz/production/izobrazitelnaya-produktsiya/plakatlar/">Deteraktiv plakatlar</a></p>
-                <br>
+                <br />
                 <p class=" m-4 bg-gradient-to-l from-violet-300 to-violet-100 text-violet-600 border border-violet-300 grid grid-col-2 justify-center p-4 gap-4 rounded-lg shadow-md"><a href="https://ildizkitoblari.uz/products/plakatlar/qalbimda-quron--jadvali">Qur'on jadvali</a></p>
-                <br>
+                <br />
                 <p class=" m-4 bg-gradient-to-l from-violet-300 to-violet-100 text-violet-600 border border-violet-300 grid grid-col-2 justify-center p-4 gap-4 rounded-lg shadow-md"><a href="https://t.me/s/lavhuz/73">Lavh</a></p>
-                <br>
+                <br />
             </div>
             <div class="btn6 text-2xl">
                <p class="m-4 bg-gradient-to-l from-violet-300 to-violet-100 text-violet-600 border border-violet-300 grid grid-col-2 justify-center p-4 gap-4 rounded-lg shadow-md"> <a href="https://www.olx.uz/oz/moda-i-stil/podarki/q-suvenir/">Suvenerlar</a></p>
                 
                 <p class="m-4 bg-gradient-to-l from-violet-300 to-violet-100 text-violet-600 border border-violet-300 grid grid-col-2 justify-center p-4 gap-4 rounded-lg shadow-md"><a href="https://uzum.uz/uz/product/tungi-chiroq-485460">Tungi chiroqlar</a></p>
-                <br>
+                <br />
                 <p class="m-4 bg-gradient-to-l from-violet-300 to-violet-100 text-violet-600 border border-violet-300 grid grid-col-2 justify-center p-4 gap-4 rounded-lg shadow-md"><a href="https://uzum.uz/uz/product/antiqa-stol-chirogi-1038587">Antiqa buyumlar</a></p>
             </div>
         </div>
+
+
+
         <div class="text9 bg-gradient-to-l from-violet-300 to-violet-100 text-violet-600 border border-violet-300 grid grid-col-2 justify-center p-4 gap-4 rounded-lg shadow-md h-full mt-14">
            
+
+
             <div class="btn8">
               <h1 class="justify-center flex text-2xl text-violet-950">Tavsif</h1>
               
-                <div class="text-violet-950">Men Isrofilov Sunnatbek.Yoshim 15 da.Kelajakdagi
+                <div  class="text-violet-950">
+                Men Isrofilov Sunnatbek.Yoshim 15 da.Kelajakdagi
                   qiziqishlarim menda 13 yoshimdan paydo bo'la 
                    boshlagan.Men 11 yoshimda
                   Shifokor bo'lishga maqsad qo'ygandim.Lekin 2024-10-16 kunidan boshlab 
@@ -177,32 +188,19 @@ function Navbar() {
                     ekan menda bu sohaga borgan sari qiziqish tushdi.O'sha vaqtlar taxminan "BOOTSRAP" mavzusini o'tayotgan
                      edik.Hatto vaziyat shunday darajaga keldiki kursni yi'g'ishtirish fikri ham keldi.Alhamdulillah 
                       hozirgi kunda bu kursga qatnashayotganimga 6 oy dan oshdi men esa shu kungacha o'rganganlarimni
-                       70% dan <br>foydalanib, 2-saytimni tayyorlab bo'ldim. Bu boshqalar  uchun oddiy ish bo'lishi
-                        mumkin, lekin men uchun 6 oy  <br>davomida o'rganganlarim uchun bu natija men uchun  eng zo'r
-                        natija demakdir.Men bu tavsifni yozishimdan <br> maqsad inson bir narsaga bog'lanib qolar ekan ayrilish  <br>qiyin.Undan ayrilolmayapsizmi unda u bilan birlashing  <br>shundagina o'z maqsadingizga erishasiz... </div>
+                       70% dan foydalanib, 2-saytimni tayyorlab bo'ldim. Bu boshqalar  uchun oddiy ish bo'lishi
+                        mumkin, lekin men uchun 6 oy  davomida o'rganganlarim uchun bu natija men uchun  eng zo'r
+                        natija demakdir.Men bu tavsifni yozishimdan  maqsad inson bir narsaga bog'lanib qolar ekan ayrilish  qiyin.Undan ayrilolmayapsizmi unda u bilan birlashing  shundagina o'z maqsadingizga erishasiz... 
+                    </div>
             </div>
         </div>
        </div>
-        <div class="ff ">                                       
-          <h2 class="p-4 ttt text-5xl text-violet-950 bg-violet-300 mt-10 text-center mb-8">Manzil</h2>
-          <div class="d">
-            <img src="images-removebg-preview.png" alt="">
-           </div>
-           <div class="h">
-            <img src="png-clipart-yandex-taxi-korčula-airport-bus-taxi-text-logo-removebg-preview.png" alt="">
-           </div>
-          <div class=" justify-around">
-     
-    <div class="g">
-      <div id="map"></div>
-    </div>
-        </div>
-        </div>
+        
 
 
     </main>
   
-    <footer>
+   
       
 
 <footer class="bg-white dark:bg-violet-950">
@@ -317,7 +315,7 @@ function Navbar() {
       
     </div>
    
-<footer>
+
 
 
         
