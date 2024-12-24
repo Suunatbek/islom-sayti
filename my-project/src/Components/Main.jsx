@@ -2,6 +2,7 @@ import React from "react";
 import bi from '../assets/501.jpg';
 import i from '../assets/511.jpg';
 import b from '../assets/515.jpg';
+import './Main.css';
 
 function Navbar() {
     return(
@@ -324,3 +325,5 @@ function Navbar() {
         </div>
     )
 }
+
+export default Navbar;
