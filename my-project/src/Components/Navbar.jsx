@@ -260,13 +260,13 @@ Morning
 
 <div class="max-w-sm bg-green-100 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="rounded-t-lg" src={ee} alt="" />
+        <img class="rounded-t-lg" src="https://ilm-live.storage.googleapis.com/upload/img_cache/file-2212-80cf58c5ead9aa9f0fcd2b7b363d18c9.jpg" alt="" />
     </a>
     <div class="p-5">
         <a href="#">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Ilm</h5>
         </a>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">In Islam, ilm is an Arabic word that means "knowledge" and is often used to refer to religious knowledge. The concept of ilm in Islam is complex and includes several aspects: of ilm in Islam is complex </p>
         
     </div>
 </div>
@@ -274,13 +274,13 @@ Morning
         <div>
         <div class="max-w-sm bg-green-100 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="rounded-t-lg" src={ee} alt="" />
+        <img class="rounded-t-lg" src="https://lh3.googleusercontent.com/proxy/UL0XgBmZfeflk6_WY_JMr_sTtBBvNs3Z6ECDhr_obZ9rmhPm0EMKQjElSBBrTW0j_Adeqa14up4sAhwBoL98ffUTysH-H-A4cwHkDTjSuE7h7ZA_bMnqEgtssDn_N3I8_Xg" alt="" />
     </a>
     <div class="p-5">
         <a href="#">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Tajvid</h5>
         </a>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">In Islam, ilm is an Arabic word that means "knowledge" and is often used to refer to religious knowledge.of ilm in Islam is complex</p>
         
     </div>
 </div>
@@ -288,13 +288,13 @@ Morning
         <div>
         <div class="max-w-sm bg-green-100 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="rounded-t-lg" src={ee} alt="" />
+        <img class="rounded-t-lg" src="https://rossingcenter.org/wp-content/uploads/2021/09/9259028296_2fb8f1241a_b.jpg" alt="" />
     </a>
     <div class="p-5">
         <a href="#">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Hadis</h5>
         </a>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Hadith[b] is a form of Islamic oral tradition containing the purported words, actions, and the.</p>
         
     </div>
 </div>
@@ -302,13 +302,13 @@ Morning
         <div>
         <div class="max-w-sm bg-green-100 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="rounded-t-lg" src={ee} alt="" />
+        <img class="rounded-t-lg" src="https://media.licdn.com/dms/image/D4D12AQHpCDFnrmJiiQ/article-cover_image-shrink_600_2000/0/1712430882115?e=2147483647&v=beta&t=D_y1vThNzKM8thNPMKpNy-f5g2t0ePFUXPUynynpmGk" alt="" />
     </a>
     <div class="p-5">
         <a href="#">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Quran</h5>
         </a>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">The Quran,[c] also romanized Qur'an or Koran,[d] is the central religious text of Islam, believed by Muslims to be a revelation directly from God (Allāh). It is organized in 114 chapters (surah, pl. suwer) which consist of individual verses</p>
         
     </div>
 </div>
@@ -317,23 +317,12 @@ Morning
 <div class=" flex fert def">
 <div>
 
-<div class="max-w-sm bg-green-100 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-    <a href="#">
-        <img class="rounded-t-lg" src={ee} alt="" />
-    </a>
-    <div class="p-5">
-        <a href="#">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Sunnah</h5>
-        </a>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
-        
-    </div>
-</div>
+
         </div >
         <div>
         <div class="max-w-sm bg-green-100 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="rounded-t-lg" src={ee} alt="" />
+        <img class="rounded-t-lg" src="https://ilm-live.storage.googleapis.com/upload/img_cache/file-2212-80cf58c5ead9aa9f0fcd2b7b363d18c9.jpg" alt="" />
     </a>
     <div class="p-5">
         <a href="#">
@@ -347,7 +336,7 @@ Morning
         <div>
         <div class="max-w-sm bg-green-100 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="rounded-t-lg" src={ee} alt="" />
+        <img class="rounded-t-lg" src="https://lh3.googleusercontent.com/proxy/UL0XgBmZfeflk6_WY_JMr_sTtBBvNs3Z6ECDhr_obZ9rmhPm0EMKQjElSBBrTW0j_Adeqa14up4sAhwBoL98ffUTysH-H-A4cwHkDTjSuE7h7ZA_bMnqEgtssDn_N3I8_Xg" alt="" />
     </a>
     <div class="p-5">
         <a href="#">
@@ -361,7 +350,7 @@ Morning
         <div>
         <div class="max-w-sm bg-green-100 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="rounded-t-lg" src={ee} alt="" />
+        <img class="rounded-t-lg" src="https://rossingcenter.org/wp-content/uploads/2021/09/9259028296_2fb8f1241a_b.jpg" alt="" />
     </a>
     <div class="p-5">
         <a href="#">
@@ -372,6 +361,18 @@ Morning
     </div>
 </div>
         </div>
+        <div class="max-w-sm bg-green-100 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+    <a href="#">
+        <img class="rounded-t-lg" src="https://media.licdn.com/dms/image/D4D12AQHpCDFnrmJiiQ/article-cover_image-shrink_600_2000/0/1712430882115?e=2147483647&v=beta&t=D_y1vThNzKM8thNPMKpNy-f5g2t0ePFUXPUynynpmGk" alt="" />
+    </a>
+    <div class="p-5">
+        <a href="#">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Sunnah</h5>
+        </a>
+        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        
+    </div>
+</div>
 </div>
 
 
@@ -379,15 +380,17 @@ Morning
 <hr class="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
 
-
+<div class="text-center der">
+    Footer
+</div>
 
 
 
 <footer class="bg-green-100 dark:bg-gray-900 fer">
     <div class="mx-auto w-full max-w-screen-xl">
-      <div class="grid grid-cols-2 gap-8 px-4 py-6 lg:py-8 md:grid-cols-4">
-        <div>
-            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Company</h2>
+      <div class=" der flex grid-cols-2 gap-8 px-4 py-6 lg:py-8 md:grid-cols-4">
+        <div >
+            <h2 class="mb-6 text-sm dsw font-semibold text-gray-900 uppercase dark:text-white">Company</h2>
             <ul class="text-gray-500 dark:text-gray-400 font-medium">
                 <li class="mb-4">
                     <a href="#" class=" hover:underline">About</a>
