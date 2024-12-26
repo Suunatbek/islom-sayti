@@ -45,9 +45,22 @@
         line-height: 1;
     }
 }
-
-
+.def{
+    margin-top: 20px;
+}
+.fert{
+    gap: 30px;
+}
 .fq{
     margin-top: 15px;
-letter-spacing: 1px;
+letter-spacing: 3px;
 }
+.few{
+    gap: 20px;
+}
+.der{
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
