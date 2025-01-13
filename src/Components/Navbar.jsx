@@ -7,8 +7,6 @@ function Navbar() {
     return(
         
         <div>
-            
-
 <nav class="bg-white border-gray-200 dark:bg-gray-900">
     <div class="flex flex-wrap items-center justify-between max-w-screen-xl mx-auto p-4">
         <a href="https://flowbite.com" class="flex items-center space-x-3 rtl:space-x-reverse">
@@ -262,6 +260,7 @@ Morning
     <a href="#">
         <img class="rounded-t-lg" src="https://ilm-live.storage.googleapis.com/upload/img_cache/file-2212-80cf58c5ead9aa9f0fcd2b7b363d18c9.jpg" alt="" />
     </a>
+    <br /><br /><br />
     <div class="p-5">
         <a href="#">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Ilm</h5>
@@ -274,8 +273,9 @@ Morning
         <div>
         <div class="max-w-sm bg-green-100 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="rounded-t-lg" src="https://lh3.googleusercontent.com/proxy/UL0XgBmZfeflk6_WY_JMr_sTtBBvNs3Z6ECDhr_obZ9rmhPm0EMKQjElSBBrTW0j_Adeqa14up4sAhwBoL98ffUTysH-H-A4cwHkDTjSuE7h7ZA_bMnqEgtssDn_N3I8_Xg" alt="" />
+        <img class="rounded-t-lg" src="https://img.pikbest.com/ai/illus_our/20230427/b1556518760a57d49243b3dd6985dbea.jpg!w700wp" alt="" />
     </a>
+    <br /><br /><br /><br />
     <div class="p-5">
         <a href="#">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Tajvid</h5>
@@ -290,6 +290,7 @@ Morning
     <a href="#">
         <img class="rounded-t-lg" src="https://rossingcenter.org/wp-content/uploads/2021/09/9259028296_2fb8f1241a_b.jpg" alt="" />
     </a>
+    <br /><br />
     <div class="p-5">
         <a href="#">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Hadis</h5>
@@ -324,6 +325,8 @@ Morning
     <a href="#">
         <img class="rounded-t-lg" src="https://ilm-live.storage.googleapis.com/upload/img_cache/file-2212-80cf58c5ead9aa9f0fcd2b7b363d18c9.jpg" alt="" />
     </a>
+    <br /><br />
+    <br />
     <div class="p-5">
         <a href="#">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Vajib</h5>
@@ -336,13 +339,16 @@ Morning
         <div>
         <div class="max-w-sm bg-green-100 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="rounded-t-lg" src="https://lh3.googleusercontent.com/proxy/UL0XgBmZfeflk6_WY_JMr_sTtBBvNs3Z6ECDhr_obZ9rmhPm0EMKQjElSBBrTW0j_Adeqa14up4sAhwBoL98ffUTysH-H-A4cwHkDTjSuE7h7ZA_bMnqEgtssDn_N3I8_Xg" alt="" />
+        <img class="rounded-t-lg" src="https://img.pikbest.com/ai/illus_our/20230427/b1556518760a57d49243b3dd6985dbea.jpg!w700wp" alt="" />
     </a>
+    <br />
+    <br />
+    
     <div class="p-5">
         <a href="#">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Farz</h5>
         </a>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological enterprise technology acquisitions  order.</p>
         
     </div>
 </div>
@@ -356,7 +362,7 @@ Morning
         <a href="#">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Mubah</h5>
         </a>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technol enterprise technology acquisitions of  fje2021 so far, in reverse chronological ord.</p>
         
     </div>
 </div>
